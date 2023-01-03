@@ -8,7 +8,7 @@ CLOUD_NAME=cloud1
 API_KEY=key123
 API_SECRET=secret123
 ```
-3. Open the project in vscode, and make sure to install the following extensions extensions:
+3. Open the project in vscode, and make sure to install the following extensions:
 - vscjava.vscode-java-pack
 - vscjava.vscode-maven
 - vscjava.vscode-java-debug
